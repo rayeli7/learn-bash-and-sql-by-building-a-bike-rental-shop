@@ -9,3 +9,30 @@ history -a
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
 psql --username=freecodecamp --dbname=postgres
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n 979b873e92b852662f076f86c0a083c6
+cat /proc/self/environ
+echo -n 979b873e92b852662f076f86c0a083c6
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/vscode-server/bin/linux-x64/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/node' -p '"320d04bf9d8c" + JSON.stringify(process.env) + "320d04bf9d8c"'
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n 2f19d0e97a72c7b1c051b546e2686f18
+cat /proc/self/environ
+echo -n 2f19d0e97a72c7b1c051b546e2686f18
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/vscode-server/bin/linux-x64/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/node' -p '"d1b6d80dab15" + JSON.stringify(process.env) + "d1b6d80dab15"'
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+psql --username=freecodecamp --dbname=postgres
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+sudo -u postgres psql
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+psql --username=freecodecamp --dbname=postgres
