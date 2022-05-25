@@ -110,3 +110,49 @@ history -a
 touch bike-shop.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+echo bike-shop.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+open bike-shop.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+gedit bike-shop.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+dir
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+free
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n 0222f19d8c7890c011bb27e674408146
+cat /proc/self/environ
+echo -n 0222f19d8c7890c011bb27e674408146
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/vscode-server/bin/linux-x64/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/node' -p '"5d605d8cf626" + JSON.stringify(process.env) + "5d605d8cf626"'
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+psql --username=freecodecamp --dbname=postgres
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+sudo /etc/init.d/postgresql restart
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+psql --username=freecodecamp --dbname=postgres
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+dir
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo '#!/bin/bash'
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+echo '#!/bin/bash' >> bike-shop.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
