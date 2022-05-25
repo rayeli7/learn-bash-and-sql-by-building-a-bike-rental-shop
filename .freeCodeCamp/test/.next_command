@@ -174,3 +174,24 @@ history -a
 ./bike-shop.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+medit bike-shop.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+mcedit bike-shop.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+touch bike-shop.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+dir
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+head bike-shop.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+vim
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+nano bike-shop.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
