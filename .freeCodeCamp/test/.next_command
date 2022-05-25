@@ -195,3 +195,6 @@ history -a
 nano bike-shop.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+nano bike-shop.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
