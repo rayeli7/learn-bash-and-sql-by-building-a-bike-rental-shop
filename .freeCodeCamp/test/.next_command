@@ -168,3 +168,6 @@ history -a
 echo "echo -e '\n~~~~~ Bike Rental Shop ~~~~~\n'" >> bike-shop.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+chmod +x bike-shop.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
