@@ -483,3 +483,16 @@ history -a
 ./bike-shop.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+echo -n 56877af80f8cb572cf85231f0e0dcccb
+cat /proc/self/environ
+echo -n 56877af80f8cb572cf85231f0e0dcccb
+[ -d "$HOME/bin" ]
+[ -d "$HOME/.local/bin" ]
+'/vscode/vscode-server/bin/linux-x64/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5/node' -p '"4dfd356c19b3" + JSON.stringify(process.env) + "4dfd356c19b3"'
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+sudo service postgresql restart
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
