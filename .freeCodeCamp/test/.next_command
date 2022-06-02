@@ -496,3 +496,6 @@ history -a
 sudo service postgresql restart
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+./bike-shop.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
